@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-# exclude: true
+exclude: true
 ---
 
 _Prototypes_ is a collaboration between developers and researchers at [IBM Quantum] that gives users access to prototypes from cutting-edge research in areas like quantum simulation and machine learning. These software packages are built on top of, and may eventually be integrated into, the [Qiskit] SDK. They are a contribution as part of the Qiskit community.
