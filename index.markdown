@@ -27,6 +27,7 @@ Feedback from users like you will help us improve the prototypes, and may even i
 
 ## Available prototypes
 
+- [Quantum Random Access Optimization](https://github.com/qiskit-community/prototype-qrao)
 - [Quantum Kernel Trainer](https://github.com/qiskit-community/prototype-quantum-kernel-training)
 - [Entanglement Forging](https://github.com/qiskit-community/prototype-entanglement-forging)
 
