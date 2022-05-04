@@ -1,0 +1,18 @@
+---
+layout: default
+exclude: true
+---
+<div class="post">
+<h1>{{ page.title }}</h1>
+<ul>
+{% for post in site.tags[page.tag] %}
+  <li><a href="../../expert-questions{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+    {{ post.description }}
+  </li>
+{% endfor %}
+</ul>
+</div>
+<br>
+<hr>
+<br>
+{% include archive.html %}
