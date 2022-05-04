@@ -31,8 +31,6 @@ Feedback from users like you will help us improve the prototypes, and may even i
 - [Quantum Kernel Trainer](https://github.com/qiskit-community/prototype-quantum-kernel-training)
 - [Entanglement Forging](https://github.com/qiskit-community/prototype-entanglement-forging)
 
-Also, check out upcoming prototypes [here](/profile/prototypes.md#available-and-upcoming-prototypes).
-
 ## Resources
 
 - [Announcement on Qiskit Medium](https://medium.com/qiskit/try-out-the-latest-advances-in-quantum-computing-with-ibm-quantum-prototypes-11f51124cb61)
