@@ -20,8 +20,8 @@
 
 title: Quantum prototypes
 # email: ""
-# description: >- # this means to ignore newlines until "baseurl:"
-#   Software packages supporting cutting-edge research on quantum algorithms and applications
+description: >- # this means to ignore newlines until "baseurl:"
+  Software packages supporting cutting-edge research on quantum algorithms and applications
 baseurl: "/prototypes" # the subpath of your site, e.g. /blog
 url: "https://qiskit-community.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
