@@ -7,7 +7,7 @@ title: Welcome to prototypes!
 exclude: true
 ---
 
-![image]({{ https://qiskit-community.github.io/prototypes/ }}/assets/image.png)
+![image]({{ site.url }}/assets/image.png)
 
 _Prototypes_ is a collaboration between developers and researchers at [IBM Quantum] that gives users access to prototypes from cutting-edge research in areas like quantum simulation and machine learning. These software packages are built on top of, and may eventually be integrated into, the [Qiskit] SDK. They are a contribution as part of the Qiskit community.
 
