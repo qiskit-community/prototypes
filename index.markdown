@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome to prototypes!
+exclude: true
 ---
-## Welcome to prototypes!
 
 _Prototypes_ is a collaboration between developers and researchers at [IBM Quantum] that gives users access to prototypes from cutting-edge research in areas like quantum simulation and machine learning. These software packages are built on top of, and may eventually be integrated into, the [Qiskit] SDK. They are a contribution as part of the Qiskit community.
 
