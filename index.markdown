@@ -20,7 +20,7 @@ If you would like to share your feedback, you can
 
 - Open an issue on the repository
 - Start a conversation on the GitHub Discussions board within the repository
-- [Fill out our survey](https://airtable.com/shrFxJXYzjxf5tFvx)
+- Fill out our survey (links in each repo)
 
 Feedback from users like you will help us improve the prototypes, and may even influence decisions about what we develop in the future.
 
