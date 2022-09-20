@@ -35,12 +35,16 @@ pip install -r prototype-quantum-kernel-training/requirements.txt
 pip install -r prototype-quantum-kernel-training/requirements-dev.txt
 ```
 
+([full installation instructions here](https://github.com/qiskit-community/prototype-quantum-kernel-training/blob/main/INSTALL.md))
+
 ### Quantum Random Access Optimization
 
 ```sh
 git clone https://github.com/qiskit-community/prototype-qrao.git
 pip install -e 'prototype-qrao/[notebook-dependencies]'
 ```
+
+([full installation instructions here](https://github.com/qiskit-community/prototype-qrao/blob/main/INSTALL.md))
 
 ### Entanglement Forging
 
@@ -49,6 +53,8 @@ Note that the Entanglement Forging prototype depends on [pyscf](https://pyscf.or
 ```sh
 pip install entanglement-forging
 ```
+
+([full installation instructions here](https://github.com/qiskit-community/prototype-entanglement-forging/blob/main/docs/2-reference_guide/reference_guide.md#installation-instructions))
 
 ### Zero Noise Extrapolation
 
