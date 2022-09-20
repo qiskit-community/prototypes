@@ -12,9 +12,13 @@ https://qiskit-community.github.io/prototypes/2022-ieee-quantum-week-tutorial/
 
 ## Installation instructions
 
+[Python](https://www.python.org/) 3.7 or higher is required.  If you are on a Mac, you will be best to stick with Python 3.7, 3.8, or 3.9, as one of the dependencies (pyscf) has not been updated to work with Python 3.10.
+
 We recommend installing in a virtual Python environment.  The below instructions use `venv`, but you might wish to use `conda` instead if you are more familiar with it.
 
 ### Preliminaries
+
+The following commands create a new directory, then create and activate a virtual environment inside it.
 
 ```sh
 mkdir ieee-quantum-prototypes-tutorial
@@ -39,6 +43,8 @@ pip install -e 'prototype-qrao/[notebook-dependencies]'
 ```
 
 ### Entanglement Forging
+
+Note that the Entanglement Forging prototype depends on [pyscf](https://pyscf.org/).  It is not available on Windows, and on macOS it has not been updated to work with Python 3.10.
 
 ```sh
 pip install entanglement-forging
