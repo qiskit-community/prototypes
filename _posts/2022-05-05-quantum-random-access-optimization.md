@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Prototype: Quantum Random Access Optimization"
-tags: add-tag
+tags: qrao
 permalink: /quantum-random-access-optimization/
 ---
 Today we're excited to share that we’ve released a software prototype of new quantum methods for combinatorial optimization! This project grew out of previous research that introduced a novel approach to encode classical variables more efficiently into quantum states. This translates into a step forward in enabling the exploration of larger problem instances on a quantum computer.
