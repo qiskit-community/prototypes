@@ -25,6 +25,7 @@ mkdir ieee-quantum-prototypes-tutorial
 cd ieee-quantum-prototypes-tutorial
 python3 -m venv venv
 source venv/bin/activate
+pip install -U pip
 ```
 
 ### Quantum Kernel Training
@@ -52,6 +53,7 @@ Note that the Entanglement Forging prototype depends on [pyscf](https://pyscf.or
 
 ```sh
 pip install entanglement-forging
+git clone https://github.com/qiskit-community/prototype-entanglement-forging.git
 ```
 
 ([full installation instructions here](https://github.com/qiskit-community/prototype-entanglement-forging/blob/main/docs/2-reference_guide/reference_guide.md#installation-instructions))
@@ -65,8 +67,10 @@ pip install tox notebook
 jupyter notebook
 ```
 
+Then, navigate in your web browser to the URL displayed to the terminal.
+
 ## Prototype repositories and resources
 
 - [Quantum Kernel Training prototype](https://github.com/qiskit-community/prototype-qrao) ([background information](https://github.com/qiskit-community/prototype-qrao/blob/main/docs/background/README.md), [tutorials](https://github.com/qiskit-community/prototype-qrao/tree/main/docs/tutorials))
-- [Quantum Random Access Optimization prototype](https://github.com/qiskit-community/prototype-quantum-kernel-training) ([background information](https://github.com/qiskit-community/prototype-quantum-kernel-training/tree/main/docs/background), [tutorials](https://github.com/qiskit-community/prototype-quantum-kernel-training/tree/main/docs/tutorials))
+- [Quantum Random Access Optimization prototype](https://github.com/qiskit-community/prototype-quantum-kernel-training) ([background information](https://github.com/qiskit-community/prototype-quantum-kernel-training/tree/main/docs/background), [tutorials](https://github.com/qiskit-community/prototype-quantum-kernel-training/tree/main/docs/tutorials), [explanatory video](https://www.youtube.com/watch?v=y-k4--0ZbGo), [Qiskit Algorithms tutorials](https://qiskit.org/documentation/tutorials.html#algorithms), [Qiskit Optimization tutorials](https://qiskit.org/documentation/optimization/tutorials/index.html#optimization-tutorials))
 - [Entanglement Forging prototype](https://github.com/qiskit-community/prototype-entanglement-forging) ([background information](https://github.com/qiskit-community/prototype-entanglement-forging/blob/main/docs/3-explanatory_material/explanatory_material.md), [tutorials](https://github.com/qiskit-community/prototype-entanglement-forging/tree/main/docs/1-tutorials))
