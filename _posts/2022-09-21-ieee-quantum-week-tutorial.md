@@ -58,8 +58,6 @@ git clone https://github.com/qiskit-community/prototype-entanglement-forging.git
 
 ([full installation instructions here](https://github.com/qiskit-community/prototype-entanglement-forging/blob/main/docs/2-reference_guide/reference_guide.md#installation-instructions))
 
-### Zero Noise Extrapolation
-
 ### Start Jupyter notebook server locally
 
 ```sh
