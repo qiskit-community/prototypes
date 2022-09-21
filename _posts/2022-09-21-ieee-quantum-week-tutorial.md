@@ -5,7 +5,7 @@ tags: tutorial
 permalink: /2022-ieee-quantum-week-tutorial/
 ---
 
-Today, we are presenting a [tutorial](https://qce.quantum.ieee.org/2022/tutorials-program/) at the 2022 IEEE Quantum Week.  Below are the installation instructions and links to resources presented.
+Today, we are presenting a [tutorial](https://qce.quantum.ieee.org/2022/tutorials-program/#pedrorivero) at the 2022 IEEE Quantum Week.  Below are the installation instructions and links to resources presented.
 
 ![QR Code]({{ site.url }}{{ site.baseurl }}/assets/2022-ieee-tutorial-qrcode.svg)
 https://qiskit-community.github.io/prototypes/2022-ieee-quantum-week-tutorial/
